@@ -48,9 +48,7 @@ This Power BI dashboard helps users and businesses understand mobile sales perfo
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
-![Mobile Sales Dashboard](Mobile_Sales_Dashboard.png)
+![Mobile Sales Dashboard] (Mobile_Sales_Dashboard.png)
 
 
 ---
