@@ -82,7 +82,7 @@ Through this project, you will learn:
 
 For feedback, suggestions, or collaboration, feel free to reach out via:
 
-**GitHub**: [YourUsername]  
+**GitHub**: [umar9643]  
 **LinkedIn**: www.linkedin.com/in/umar-alam-a1b2c3
 
 
