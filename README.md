@@ -40,10 +40,8 @@ This Power BI dashboard helps users and businesses understand mobile sales perfo
 
 ## 📁 Files Included
 
-## 📁 Files Included
-
-- [`Mobile_Sales_Dashboard.png`](Mobile_Sales_Dashboard.png) – Preview image of the final dashboard  
-- [`SalesDashboard.pbix`](SalesDashboard.pbix) – Power BI project file *(optional)*  
+- [`Mobile_Sales_Overview.png)`](Mobile_Sales_Dashboard.png) – Preview image of the final dashboard  
+- [`salesdashboard.pbix`](SalesDashboard.pbix) – Power BI project file *(optional)*  
 - [`sales_data.csv`](sales_data.csv) – Sample sales dataset *(optional)*
 
 ---
